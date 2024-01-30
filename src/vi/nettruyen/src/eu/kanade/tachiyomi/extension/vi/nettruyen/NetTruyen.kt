@@ -19,7 +19,7 @@ class NetTruyen : ParsedHttpSource() {
 
     override val name = "NetTruyen"
 
-    override val baseUrl = "http://www.nettruyen.com"
+    override val baseUrl = "http://www.nettruyenss.com"
 
     override val lang = "vi"
 
